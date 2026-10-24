@@ -1,7 +1,7 @@
 {
-  "name": "Boris AI",
-  "short_name": "Boris AI",
-  "description": "Boris AI for personal injury firms. Interactive demo with sample data.",
+  "name": "Boris",
+  "short_name": "Boris",
+  "description": "Boris, the AI employee for personal injury firms. Interactive demo with sample data.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
